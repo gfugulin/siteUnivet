@@ -1,0 +1,1 @@
+export default function AssistenciaPage() { return (<main className='min-h-screen flex items-center justify-center bg-gray-50'><h1 className='text-3xl font-bold text-gray-900'>Pagina: assistencia</h1></main>); }
